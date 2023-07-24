@@ -13,3 +13,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=githubk3&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Luan Dinh" width="700">
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=githubk3&theme=jolly" width="700">
+
