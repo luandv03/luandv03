@@ -11,6 +11,5 @@
 
 ## GitHub Stats
 
-<!-- 2022 Skyline -->
-<img src="[https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif](https://skyline.github.com/githubk3/2022)" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=githubk3&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Luan Dinh" width="700">
 
