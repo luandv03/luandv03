@@ -16,7 +16,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=githubk3&theme=jolly" width="700">
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
-![Javascript](https://img.shields.io/badge/logo-javascript-blue?style=for-the-badge&logo=javascript)
+![Javascript](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript)
 
 
 
