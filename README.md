@@ -6,7 +6,7 @@
 - Developer with my own philosophy, whether it's about code or not.
 
 🌱 I'm currently learning nest.js . <br/>
-🌱 I use nestjs, typeorm, typescript, postgresql to create a server.  <br/>
+🌱 I use nestjs, typescript, postgresql to create a server.  <br/>
 🌱 I enjoy learning deeply about the essentials and I love to share what I know. 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
